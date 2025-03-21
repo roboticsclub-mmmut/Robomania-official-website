@@ -1,0 +1,31 @@
+.homepage-body{
+  background: none;
+}
+
+.homepage-section {
+  background: url('../../assets/images/general/background.png');
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+
+@media only screen and (max-width: 480px) {
+  .homepage-body{
+    background:#000 url('../../assets/images/general/phone5.png');
+    background-position: bottom center;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow-x:hidden;
+  }
+
+  .homepage-section {
+    background: url("../../assets/images/general/bgmobile.png");
+    background-position: center center;
+    background-size: cover;
+  }
+
+  #tsparticles{
+    display: none;
+  }
+
+}
