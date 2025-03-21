@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Asul:wght@400;700&family=Open+Sans:wght@400;500&family=Ubuntu:wght@400;500;700&display=swap');
+
+/* font-family: 'Black Ops One', cursive; */
+/* font-family: 'Asul', sans-serif; */
+/* font-family: 'Ubuntu', sans-serif;  */
+/* font-family: 'Open Sans', sans-serif; */
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+:root{
+  --dark: #061924;
+  --pure: #fff;
+  --light: #2f87a0;
+  --grey: #b8cad0;
+  --light2: #4c9aab;
+  --fade: #2f6c7d;
+  --dark2: #0b3045;
+  --grey2:#454e53;
+  --green: #2a9474;
+  --lightg: #0decf6;
+  --darkg: #054c47;
+  --glow-color: hsl(186 100% 69%);
+  --glow-color2: hsl(57, 100%, 69%);
+  --glow-color3: hsl(0, 100%, 69%);
+  
+}
+
+::-webkit-scrollbar {
+  display:none;     
+}
+
+h1,h2{
+  font-family:'Ubuntu', sans-serif;;
+  list-style-type: none;
+}
+
+h3,h4,h5,p,a{
+  font-family: 'Open Sans', sans-serif;
+  list-style-type: none;
+}
+
+section{
+  min-height: 100vh;
+}
+
+html,body{
+  scroll-behavior:smooth;
+}
+
+
+
+/* Mobile Phone */
+@media only screen and (max-width: 480px){
+  body{
+    overflow-x: hidden;
+  }
+  section{
+    width: 100%;
+    overflow-x: hidden;
+  }
+    
+}
+/* 00009  NAVBAR  */
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+   
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  top:2rem;
+  right: 2rem;
+  }
+  
+  /* Color/shape of burger icon bars */
+  .bm-burger-bars {
+    background: #fff;
+  }
+  
+  /* Color/shape of burger icon bars on hover*/
+  .bm-burger-bars-hover {
+    background: #0084a9;
+  }
+  
+  /* Position and sizing of clickable cross button */
+  .bm-cross-button {
+    height: 24px;
+    width: 24px;
+  }
+  
+  /* Color/shape of close button cross */
+  .bm-cross {
+    background: #bdc3c7;
+  }
+  
+  /*
+  Sidebar wrapper styles
+  Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+  */
+  .bm-menu-wrap {
+    position: fixed;
+    height: 100%;
+  }
+  
+  /* General sidebar styles */
+  .bm-menu {
+    background: #373a47;
+    padding: 2.5em 1.5em 0;
+    font-size: 1.15em;
+  }
+  
+  /* Morph shape necessary with bubble or elastic */
+  .bm-morph-shape {
+    fill: #373a47;
+  }
+  
+  /* Wrapper for item list */
+  .bm-item-list {
+    color: #b8b7ad;
+    padding: 0.8em;
+  }
+  
+  /* Individual item */
+  .bm-item {
+    display: inline-block;
+    color: #d1d1d1;
+  margin-bottom: 10px;
+  text-align: left;
+  text-decoration: none;
+  transition: color 0.2s;
+  }
+  .bm-item:hover {
+    color: #ffffff;
+  }
+
+  /* Styling of overlay */
+  .bm-overlay {
+    background: rgba(0, 0, 0, 0.3);
+  }
+
+

@@ -1,0 +1,122 @@
+.footerbar-container {
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  padding:2rem 5rem;
+  justify-content: center;
+  flex-wrap: nowrap;
+  background-color: rgb(6, 16, 37);
+}
+a{
+  scroll-behavior: smooth;
+}
+.footer-side-col {
+  display: flex;
+  justify-content: space-evenly;
+  width: 90%;
+}
+
+.footerbar-col h1{
+    font-size: 1.4rem;
+    text-align: center; 
+}
+.footerbar-col h3{
+  font-size: 1.2rem;
+}
+.footerbar-col p{
+  font-size: 0.8rem;
+  margin-top: 2px;
+}
+.footerbar-col a{
+  font-size: 1.2rem;
+  margin-top: 6px;
+}
+
+.footerbar-col img{
+    margin-left:24%;
+    margin-top:-10px;
+}
+
+.footer-side-col > .footerbar-col {
+  flex-wrap: nowrap;
+}
+
+.footerbar-container  .footerbar-col {
+  flex-basis: 20%;
+  color: white;
+}
+
+.footerbar-container  .footerbar-col li{
+ list-style: none;
+}
+.footerbar-container  .footerbar-col li a{
+  color: white;
+  list-style: none;
+  text-decoration: none;
+}
+
+.footerbar-container  .footerbar-col  .social-menu ul{
+  display: flex;
+  /* justify-content: space-evenly; */
+}
+.footerbar-container  .footerbar-col  .social-menu li{
+  list-style: none;
+  color: white;
+}
+
+.footerbar-container  .footerbar-col  .social-menu a li{
+
+  color: white;
+  margin-right: 1rem;
+}
+
+.footerbar-container .footerbar-col a:hover,
+footer a:focus {
+  color: cyan;
+}
+.footerbar-container .footerbar-col li i:hover,
+footer a:focus {
+  color: cyan;
+}
+
+
+@media only screen and (max-width: 480px) {
+    .footerbar-container{
+        flex-direction: column;
+        text-align: center;
+        overflow-x: hidden;
+    }
+    .footer-side-col{
+      flex-direction: column;
+    }
+    .footerbar-col img{
+      margin-left: 0px;
+    }
+    .footerbar-col{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    
+      align-items: center;
+    }
+ .footerbar-col h3{
+  font-size: 1.1rem;
+  margin-top: 2rem;
+  margin-left: 1rem;
+ }
+ .footerbar-col p{
+  font-size: 0.9rem;
+  margin-left: 1rem;
+ }
+ .footerbar-col a{
+  font-size: 1rem;
+ }
+ .footerbar-col ul{
+    margin-left: 1rem;
+ }
+ .footerbar-col .social-menu{
+  margin-left: 1rem;
+ }
+    
+
+}
