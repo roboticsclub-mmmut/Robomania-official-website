@@ -6,6 +6,7 @@ import roboGif from "../../../assets/images/events/robotgif.gif";
 import roboGif2 from "../../../assets/images/events/robotgif2.gif";
 import NavMenu from '../../../components/NavMenu/NavMenu';
 import FooterBar from '../../../components/FooterBar/FooterBar';
+import { color } from 'framer-motion';
 
 const ElectronicChess = () => {
 
@@ -22,7 +23,8 @@ const ElectronicChess = () => {
         <NavMenu />
         <div className="eventpage-hero">
           <img src={roboGif} alt="robogif" />
-          <h1 >Chess Reimagined</h1>
+          <h1 style={{color: "white"}}>Electronic Chess</h1>
+
         </div>
         <div class="register-btn upper-register">
           <a href="https://linktr.ee/Robomania23">REGISTER NOW</a>
@@ -37,7 +39,8 @@ const ElectronicChess = () => {
           </div>
           <div class="eventpage-description-right">
             <p>
-            Such a game decoys played with endeavour and interest. Get ready to compete with the opponent. Lets change the doomsday scenerio about the people loosing interest in chess.We welcome you with one of the most popular event i.e <strong>Electronic Chess</strong>,so lets confront the human creativity which was more paramount. track the path through the glowing LED's to beat your opponent.Let be the czar of the black and white battlefield.
+            {/* Such a game decoys played with endeavour and interest. Get ready to compete with the opponent. Lets change the doomsday scenerio about the people loosing interest in chess.We welcome you with one of the most popular event i.e <strong>Electronic Chess</strong>,so lets confront the human creativity which was more paramount. track the path through the glowing LED's to beat your opponent.Let be the czar of the black and white battlefield. */}
+            If you're a fan of <strong>chess</strong> and love technology, this is the event for you. Experience a unique twist on the classic game as electronics is infused into every move. Watch as chess pieces come to life with sensors and motors, adding a whole new level of strategy and excitement. Bring your skills and your strategy, and see how you stack up in this high-tech chess battle.
             </p>
           </div>
         </div>
@@ -61,7 +64,7 @@ const ElectronicChess = () => {
           </div>
           <div class="eventpage-description-right">
           <p>
-              12th - 14th May 2023
+          11th - 13th April 2025
             </p>
           </div>
         </div>

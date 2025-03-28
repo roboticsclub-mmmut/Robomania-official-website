@@ -1,173 +1,179 @@
-import aryan from "../../../assets/images/teams/2nd Year/aryan.jpeg";
-import anubhavg from "../../../assets/images/teams/2nd Year/anubhavg.png";
-import anubhavs from "../../../assets/images/teams/2nd Year/anubhavs.jpeg";
-import nitish from "../../../assets/images/teams/2nd Year/nitish.jpg";
-import ashish from "../../../assets/images/teams/2nd Year/ashish.jpg";
-import akash from "../../../assets/images/teams/2nd Year/akash.JPG";
-import akhil from "../../../assets/images/teams/2nd Year/akhil.jpg";
-import gaurav from "../../../assets/images/teams/2nd Year/gaurav.jpg";
-import jyoti from "../../../assets/images/teams/2nd Year/jyoti.jpg";
-import vandana from "../../../assets/images/teams/2nd Year/vandana.jpg";
-import sneha from "../../../assets/images/teams/2nd Year/sneha.jpeg"
-import niraj from "../../../assets/images/teams/2nd Year/niraj.jpg"
-import amisha from "../../../assets/images/teams/2nd Year/amisha.jpeg"
-import divyanshi from "../../../assets/images/teams/2nd Year/divyanshi.jpg"
-import sahil from "../../../assets/images/teams/2nd Year/sahil.jpg"
-import saurabh from "../../../assets/images/teams/2nd Year/saurabh.jpg"
-import jyotis from "../../../assets/images/teams/2nd Year/Jyoti Singh.jpeg"
-import utkarshg from "../../../assets/images/teams/2nd Year/utkarsh.jpg"
-import sandesh from "../../../assets/images/teams/2nd Year/sandesh.jpg"
-import sameeksha from "../../../assets/images/teams/2nd Year/sameeksha.jpg"
-import yogeshwar from "../../../assets/images/teams/2nd Year/yogeshwar.jpg"
+import aastha from '../../../assets/images/teams/Third/aastha.jpg'
+import kratin from '../../../assets/images/teams/Third/kratin.jpg'
+import jyoti from '../../../assets/images/teams/Third/jyoti.png'
+import sahil from '../../../assets/images/teams/Third/sahil.jpg'
+import ansh from '../../../assets/images/teams/Third/ansh.JPG'
+import ritika from '../../../assets/images/teams/Third/ritika.jpg'
+import kavya from '../../../assets/images/teams/Third/kavya.jpg'
+import ananya from '../../../assets/images/teams/Third/ananya.jpg'
+import divyanshm from '../../../assets/images/teams/Third/divyanshm.jpg'
+import nikhil from '../../../assets/images/teams/Third/nikhil.jpg'
+import brijesh from '../../../assets/images/teams/Third/brijesh.jpg'
+import vikas from '../../../assets/images/teams/Third/vikas.jpg'
+import arav from '../../../assets/images/teams/Third/arav.jpg'
+import aniket from '../../../assets/images/teams/Third/aniket.png'
+import ujj from '../../../assets/images/teams/Third/ujj.png'
+import mayuresh from '../../../assets/images/teams/Third/mayureshh.JPG'
+import alfida from '../../../assets/images/teams/Third/alfida.jpg'
+import neeraj from '../../../assets/images/teams/Third/neeraj.jpg'
+import pawan from '../../../assets/images/teams/Third/pawan.jpg'
+// import divyansh from '../../../assets/images/teams/Third/divyanshm.jpg'
 const secondyear = [
   {
-    name: "Aryan Anand",
-    image: aryan,
+    name: "Aastha Gupta",
+    image: aastha,
     position: "Web & App Development Lead",
-    insta: "https://instagram.com/iaryan_anand_2003?igshid=NzMyMjgxZWIzNw==",
-    fb: "https://www.facebook.com/profile.php?id=100075712623601&mibextid=ZbWKwL",
-    lin: "https://www.linkedin.com/in/aryan-anand-948998229",
+    insta: "https://www.instagram.com/pvtt.aastha_/",
+    fb: "https://www.facebook.com/profile.php?id=100060492375278",
+    lin: "https://www.linkedin.com/in/aastha-gupta23/",
   },
   {
-    name: "Anubhav Gupta",
-    image: anubhavg,
-    position: "Web & App Development Lead",
-    insta: "https://instagram.com/anubhavgupta8083?igshid=ZDdkNTZiNTM=",
-    fb: "https://www.facebook.com/profile.php?id=100022662433391&mibextid=ZbWKwL",
-    lin: "https://www.linkedin.com/in/anubhav-gupta-011164210",
-  },
-  {
-    name: "Anubhav Sonker",
-    image: anubhavs,
-    position: "Circuitary & Simulation Lead",
-    insta: "https://instagram.com/anubhav_sonker?igshid=ZDdkNTZiNTM=",
-    fb: "https://www.facebook.com/profile.php?id=100079561038653&mibextid=ZbWKwL",
-    lin: "https://www.linkedin.com/in/anubhav-sonkar-93762122b",
-  },
-
-  {
-    name: "Nitish Kumar Bharti",
-    image: nitish,
-    position:"Desigining Lead",
-    insta: "https://instagram.com/nitishbharti68?igshid=ZDdkNTZiNTM=",
-    fb: "https://www.facebook.com/profile.php?id=100008422118217&mibextid=ZbWKwL",
-    lin: "https://www.linkedin.com/in/nitish-kumar-bharti-171640228",
-  },
-  {
-    name: "Sahil Srivastava",
-    image: sahil,
-    position: "Inventary & Managerial Lead",
-    insta: "https://instagram.com/sahil_srivastava_25?igshid=ZDdkNTZiNTM=",
-    fb: "https://www.facebook.com/profile.php?id=100075365914423&mibextid=ZbWKwL",
-    lin: "https://www.linkedin.com/in/sahil-srivastava-211957225",
-  },
-  {
-    name: "Ashish Gupta",
-    image: ashish,
-    position: "Circuitary & Simulation Lead",
-    insta: "https://instagram.com/ashish_gupta_curious_?igshid=ZDdkNTZiNTM=",
-    lin: "https://www.linkedin.com/in/ashish-gupta-5b7282228",
-  },
-
-  {
-    name: "Akash Singh ",
-    image: akash,
-    position: "Circuitary & Simulation Lead",
-    insta: "https://www.instagram.com/akashsingh_9936/",
-    fb: "https://www.facebook.com/profile.php?id=100032861633645",
-    lin: "https://www.linkedin.com/in/akash-singh-0b950a22a",
-  },
-  {
-    name: "Akhil Verma",
-    image: akhil,
-    position: "Editorial Lead",
-    insta: "https://instagram.com/akhilverma_27?igshid=ZDdkNTZiNTM=",
-    fb: "https://www.facebook.com/profile.php?id=100073450068479&mibextid=ZbWKwL",
-    lin: "https://www.linkedin.com/in/akhil-verma-67a3bb171",
-  },
-
-  {
-    name: "Gaurav Kumar Sen",
-    image: gaurav,
-    position: "Editorial Lead",
-    insta: "https://www.instagram.com/sengaurav383/tagged/",
-    fb: "https://www.facebook.com/profile.php?id=100024316561213",
-    lin: "https://www.linkedin.com/in/gaurav-sen-317093228",
-  },
-  {
-    name: "Jyoti Rai",
+    name: "Jyoti Maurya",
     image: jyoti,
-    position: "Editorial Lead",
-    insta: "https://instagram.com/jyo_brai?igshid=ZDdkNTZiNTM=",
-    lin: "https://www.linkedin.com/in/jyoti-rai-732176228",
-  },
-  {
-    name: "Vandana Yadav",
-    image: vandana,
-    position: "Inventary & Managerial Lead",
-    insta: "https://instagram.com/vandanayadav3767?igshid=ZDdkNTZiNTM=",
-    lin: "https://www.linkedin.com/in/vandana-yadav-bb6900205",
-  },
-
-  {
-    name: "Sneha Prajapati",
-    image: sneha,
-    position: "Desigining Lead",
-    insta: "https://instagram.com/sudreksha?igshid=YmMyMTA2M2Y=",
-  },
-  {
-    name: "Niraj Kumar",
-    image: niraj,
-    position: "Desigining Lead",
-    fb: "https://www.facebook.com/profile.php?id=100077897731686",
-    insta: "https://www.instagram.com/artificialhuman_1729/",
-    lin: "https://www.linkedin.com/in/niraj-kumar-a81655228/",
-  },
-  {
-    name: "Amisha Mishra",
-    image: amisha,
-    position: "Editorial Lead",
-    fb: "https://www.facebook.com/profile.php?id=100076398445065",
-    insta: "http://instagram.com/amisha_mishra125",
-    lin: "http://linkedin.com/in/amisha-mishra-24985a227",
-  },
-  {
-    name: "Divyanshi Gautam",
-    image: divyanshi,
     position: "Web & App Development Lead",
-    fb: "https://www.facebook.com/profile.php?id=100084858442930",
-    lin: "www.linkedin.com/in/ divyanshi-gautam-b7ba66228",
+    insta: "https://www.instagram.com/jyoti_21ab?igsh=MTN2em04ZnlidDN0Zg==",
+    fb: "",
+    lin: "https://www.linkedin.com/in/jyoti-maurya-b9a5b8255",
   },
+  {
+    name: "Kratin Kesari",
+    image: kratin,
+    position: "Web & App Development Lead",
+    insta: "https://www.instagram.com/kratin._.keshari?igsh=MTc5cWhudzc3dXdsMA==",
+    fb: "https://www.facebook.com/",
+    lin: "https://www.linkedin.com/in/kratin-keshari-2a21b2254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  },
+  
+  {
+    name: "Sahil Soni",
+    image: sahil,
+    position: "Web & App Development Lead",
+    insta: "https://www.instagram.com/soni_sahil_0?igsh=MXJwZmhkc3RhZ3A1ag==",
+    fb: "https://www.facebook.com/profile.php?id=100022662433391&mibextid=ZbWKwL",
+    lin: "https://www.linkedin.com/in/sahil-soni-23a391257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  },
+  {
+    name: "Pawan Gupta",
+    image: pawan,
+    position: "Circuitry & 3D Designing Lead",
+    lin: "https://www.linkedin.com/in/pawan-gupta-b5393a300",
+  },
+  {
+    name: "Mayuresh Pandey",
+    image: mayuresh,
+    position: "Circuitry & 3D Designing Lead",
+    insta: "https://www.instagram.com/mayuresh_0809?igsh=MXRjYTJ0Nm5venkxZg==",
+  },
+  {
+    name: "Brijesh Maurya",
+    image: brijesh,
+    position: "Circuitry & 3D Designing Lead",
+    insta: "https://www.instagram.com/brijesh_6480?igsh=b3FlbmVrM3pjdXc0",
+    fb: "",
+    lin: "https://www.linkedin.com/in/brijesh-maurya-17864725b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  },
+  {
+    name: "Divyansh Maurya",
+    image: divyanshm,
+    position: "Circuitry & 3D Designing Lead",
+    insta: "https://www.instagram.com/divyanshmaurya7355_?igsh=bHdvcDdtd2Y4b25i",
+    fb: "https://www.facebook.com/profile.php?id=100087964788459&mibextid=ZbWKwL",
+    lin: "https://www.linkedin.com/in/divyansh-maurya-falcon?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  },
+  {
+    name: "Ritika Yadav",
+    image: ritika,
+    position: "Graphic Designing Lead",
+    insta: "https://www.instagram.com/ritika_yadav36?igsh=bmp2c2M5b2s3cnVs",
+    fb: "https://www.facebook.com/share/p/XEN3ktUMws8wsSoS/?mibextid=qi2Omg",
+    lin: "https://www.linkedin.com/in/ritika-yadav-933052258",
+  },
+  {
+    name: "Nikhil Kumar",
+    image: nikhil,
+    position: "Graphic Designing Lead",
+    insta: "https://www.instagram.com/its_nikhil_sah18?igsh=MXZuODN0YWhnaXJrZg==",
+    fb: "",
+    lin: "https://www.linkedin.com/in/nikhil7967",
+  },
+  {
+    name: "Ananya Trivedi",
+    image: ananya,
+    position: "Graphic Designing Lead",
+    insta: "https://www.instagram.com/ananyatrivedi19?igsh=aXpqNHR1ZnM2NjV3",
+    fb: "https://www.facebook.com/share/kt45oCDbmHxqVTVN/?mibextid=qi2Omg",
+    lin: "https://www.linkedin.com/in/ananya-trivedi-045bb7256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 
-  {
-    name: "Jyoti Singh",
-    image: jyotis,
-    position: "Inventary & Managerial Lead",
-    insta: "https://instagram.com/jyotijulisingh?igshid=ZDdkNTZiNTM=",
-    lin: "https://www.linkedin.com/in/jyoti-singh-8a7bb2260",
-  },
-
-  {
-    name: "Utkarsh Gupta",
-    image: utkarshg,
-    position: "Designing Lead",
-    fb: "https://www.facebook.com/profile.php?id=100013653669037&mibextid=ZbWKwL",
-    insta: "https://instagram.com/ut_covers",
   },
   {
-    name: "Sameeksha Mishra",
-    image: sameeksha,
-    position: "Inventory & Managerial Lead",
+    name: "Arav Prajapati",
+    image: arav,
+    position: "Graphic Designing Lead",
+    insta: "https://www.instagram.com/arav_prajapati16?igsh=MWJrZXRyNmxuNzZrbA==",
+    lin: "https://www.linkedin.com/in/arav-prajapati-917061250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  },
+  {
+    name: "Kavya Gupta",
+    image: kavya,
+    position: "Editorial & Content Research Lead",
+    insta: "https://www.instagram.com/kaavyyaaaa?igsh=MTh5cGQ0Y282Y2RtZQ==",
+    fb: "",
+    lin: "https://www.linkedin.com/in/kavya-gupta-9488ab231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  },
+  {
+    name: "Ansh Rastogi",
+    image: ansh,
+    position: "Editorial & Content Research Lead",
+    insta: "",
+    fb: "",
+    lin: "https://www.linkedin.com/in/ansh-rastogi-4594b2270",
+    },
+    {
+      name: "Alfida Rashid",
+      image: alfida,
+      position: "Media & Sponsorship Lead",
+      fb: "https://www.facebook.com/share/sspmiWiwRHgyrkWj/?mibextid=qi2Omg",
+      insta:"https://www.instagram.com/alfida_rashid?igsh=cXppN2kwbWI3ZHNr",
+      lin: "https://www.linkedin.com/in/alfida-rashid-28872225a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    },
+    {
+      name: "Ujjawal Srivastava",
+      image: ujj,
+      position: "Media & Sponsorship Lead",
+      fb: "https://www.facebook.com/ujjawal.srivastava.969?mibextid=ZbWKwL",
+      insta: "https://www.instagram.com/uj.ujjawal?igsh=MjRqaXhibnNoNHVp",
+      lin: "https://www.linkedin.com/in/ujjawal-srivastava-458556256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    },
+    {
+      name: "Neeraj Kumar Poddar",
+      image: neeraj,
+      position: "Public Relations Lead",
+      fb:"https://www.facebook.com/neeraj.nj.927",
+      insta: "https://www.instagram.com/neeraj_kr_nj?igsh=MW1lYmVwbmlycWZmdQ==",
+      lin: "https://www.linkedin.com/in/neeraj-kumar-nj-005322259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    },
+  {
+    name: "Vikas Srivastava",
+    image: vikas,
+    position: "Public Relations Lead",
+    insta: "https://instagram.com/jyo_brai?igshid=ZDdkNTZiNTM=",
+    lin: "https://www.linkedin.com/in/vikas-srivastava-a818ba26b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
  
+
   {
-    name: "Yogeshwar Gupta",
-    image: yogeshwar,
-    position: "Media & Publicity Lead",
-    insta: "http://instagram.com/yogeshwar.gupta.73?utm_source=qr",
-    fb: "https://www.facebook.com/yogeshwar.gupta.73?mibextid=ZbWKwL",
-    lin: "https://www.linkedin.com/in/yogeshwar-gupta-689562228",
+    name: "Aniket Kumar",
+    image: aniket,
+    position: "Video Editing Lead",
+    insta: "https://www.instagram.com/itukkashi1114?igsh=MWN1d25xMG1pdzVhaQ==",
+    fb:"https://www.facebook.com/share/KFMuKQyi5SAtZKbq/?mibextid=qi2Omg",
+    lin:"https://www.linkedin.com/in/aniket-kumar-b42a0a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   },
+  
+  
+  
+
+  
 ];
 
 export default secondyear;

@@ -21,7 +21,7 @@ const Sherlocked = () => {
         <NavMenu />
         <div className="eventpage-hero">
           <img src={roboGif} alt="robogif" />
-          <h1 style={{display: "none"}}>Sherlocked</h1>
+          <h1 style={{color: "white"}}>Sherlocked</h1>
         </div>
         <div class="register-btn upper-register">
         <a href="https://linktr.ee/Robomania23">REGISTER NOW</a>
@@ -60,7 +60,7 @@ const Sherlocked = () => {
           </div>
           <div class="eventpage-description-right">
             <p>
-              12th - 14th May 2023
+            11th - 13th April 2025
             </p>
           </div>
         </div>

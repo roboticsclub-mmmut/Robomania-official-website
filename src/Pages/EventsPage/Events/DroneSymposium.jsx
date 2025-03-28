@@ -59,7 +59,7 @@ const LaserStrike = () => {
           </div>
           <div class="eventpage-description-right">
             <p>
-              12th - 14th May 2023
+            11th - 13th April 2025
             </p>
           </div>
         </div>

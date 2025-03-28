@@ -141,60 +141,92 @@
 /* ************* Individual pages background ********/
 
 .lst {
-  background: url("../../../assets/images//events/laser.jpg");
+  background: url("../../../assets/images//events/LS.jpeg");
   background-size: cover;
   background-repeat: no repeat;
   background-position: center center;
 }
 
 .enfs {
-  background: url("../../../assets/images/events/nfs.png");
+  background: url("../../../assets/images/events/NFS.jpeg");
   background-size: cover;
   background-repeat: no repeat;
   background-position: center center;
 }
 
 .sld {
-  background: url("../../../assets/images/events/sherlock.jpg");
+  background: url("../../../assets/images/events/Sherlocked.jpeg");
   background-size: cover;
   background-repeat: no repeat;
   background-position: center center;
 }
 
 .echess {
-  background: url("../../../assets/images/events/chess.png");
+  background: url("../../../assets/images/events/EChess.png");
   background-size: cover;
   background-repeat: no repeat;
   background-position: center center;
 }
 
+.maze{
+  background: url("../../../assets/images/events/Maze.jpeg");
+  background-size: cover;
+  background-repeat: no repeat;
+  background-position: center center;
+}
 .eart {
-  background: url("../../../assets/images/events/eart.jpg");
+  background: url("../../../assets/images/events/EA.png");
   background-size: cover;
   background-repeat: no repeat;
   background-position: center center;
 }
 
 .webq {
-  background: url("../../../assets/images/events/web.jpg");
+  background: url("../../../assets/images/events/DQ.png");
   background-size: cover;
   background-repeat: no repeat;
   background-position: center center;
 }
 
 .bmb {
-  background: url("../../../assets/images/events/bombdiffusion1.jpg");
+  background: url("../../../assets/images/events/Bomb.png");
   background-size: cover;
   background-repeat: no repeat;
   background-position: center center;
 }
 
-.cld {
-  background: url("../../../assets/images/events/ctd.png");
+.et{
+  background: url("../../../assets/images/events/ET.png");
   background-size: cover;
   background-repeat: no repeat;
   background-position: center center;
 }
+.rw{
+  background: url("../../../assets/images/events/RW.png");
+  background-size: cover;
+  background-repeat: no repeat;
+  background-position: center center;
+}
+
+.hh{
+  background: url("../../../assets/images/events/HH.png");
+  background-size: cover;
+  background-repeat: no repeat;
+  background-position: center center;
+}
+.rs{
+  background: url("../../../assets/images/events/robosocer landscape.png");
+  background-size: cover;
+  background-repeat: no repeat;
+  background-position: center center;
+}
+
+/* .cld {
+  background: url("../../../assets/images/events/ctd.png");
+  background-size: cover;
+  background-repeat: no repeat;
+  background-position: center center;
+} */
 
 @media only screen and (max-width: 480px) {
   .eventpage-container {

@@ -7,6 +7,12 @@
   background-size: cover;
 }
 
+.rb-text{
+  /* background: #000; */
+  padding-left: 3rem;
+  padding-top: 3rem;
+}
+
 .events-landing {
   position: relative;
   height: 100vh;
@@ -40,6 +46,7 @@
 
 .btn-robomania {
   color: #ff0000;
+  font-family: Poppins;
   background: #fff;
   margin:2rem 4rem;
   text-align: center;
@@ -50,7 +57,7 @@
   transform: skew(15deg);
 }
 
-.btn-robomania > span {
+.btn-robomania > div {
   display: inline-block;
   transform: skew(-15deg);
 }
@@ -81,11 +88,11 @@
   text-decoration: solid;
   text-transform: uppercase;
   font-weight: 800;
-  color: var(--glow-color);
-  -webkit-text-fill-color: transparent;
-  -webkit-text-stroke-color: #000;
-  -webkit-text-stroke-width: 0.3rem;
-  text-shadow: 1px 5px 15px var(--glow-color);
+  color: rgba(255, 255, 255, 0.9);
+  /* -webkit-text-fill-color: transparent; */
+  /* -webkit-text-stroke-color: #000; */
+  /* -webkit-text-stroke-width: 0.3rem; */
+  text-shadow: 1px 5px 10px var(--glow-color);
 }
 
 .events-btn {
@@ -146,14 +153,21 @@
   position: absolute;
   right: 10%;
   top: 20%;
-  border-width:8px;
-  border-style: solid;
-  border-image: 
+  border-width:0px solid;
+  /* border-image: 
     linear-gradient(
       to bottom, 
       var(--glow-color), 
       rgba(0, 0, 0, 0)
-    )1 100%;
+    )1 100%; */
+    border-radius: 2rem;
+    transition: transform 0.5s, box-shadow 0.5s;
+}
+
+.ls-img:hover{
+  transform: translate(-1%,-1%);
+  cursor: pointer;
+  box-shadow: 0 7px 10px rgba(255, 255, 255, 0.199);
 }
 
 .ls-text {
@@ -166,16 +180,22 @@
   position: absolute;
   left: 10%;
   top: 15%;
-  border-width:8px;
-  border-style: solid;
-  border-image: 
+  border-width:0px solid;
+  /* border-image: 
     linear-gradient(
       to top, 
       var(--glow-color), 
       rgba(0, 0, 0, 0)
-    )1 100%;
+    )1 100%; */
+    border-radius: 2rem;
+    transition: transform 0.5s, box-shadow 0.5s;
 }
 
+.rs-img:hover{
+  transform: translate(1%,-1%);
+  cursor: pointer;
+  box-shadow: 0 7px 10px rgba(255, 255, 255, 0.199);
+}
 
 .rcevent-img{
   width:55%;
@@ -187,11 +207,18 @@
 
 
 @media only screen and (max-width: 480px) {
+  .events-landing{
+    height: fit-content;
+  }
+  .rb-text{
+    padding :0px;
+  }
+  .robo-para{
+    display: none;
+  }
   .eventPage-container {
     overflow-x: hidden;
   }
-
-
   .btn-robomania{
     display: none;
   }
@@ -204,9 +231,8 @@
 
   .rb-events h2 {
     font-size: 3rem;
-    color: var(--glow-color);
-    -webkit-text-stroke-width: 0.12rem;
-    text-shadow: 1px 2px 9px var(--glow-color);
+    /* -webkit-text-stroke-width: 0.12rem; */
+    text-shadow: 1px 2px 8px var(--glow-color);
   }
 
   .ls-img {
@@ -228,7 +254,11 @@
     margin: 0 auto;
     top: 0;
   }
-  
+  .rcevent-img{
+    height: auto;
+    object-fit: cover;
+  aspect-ratio: 1 / 1;
+  }
   
   .events-items {
     position: absolute;

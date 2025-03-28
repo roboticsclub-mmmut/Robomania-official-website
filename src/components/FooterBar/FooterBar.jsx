@@ -1,19 +1,22 @@
 import React from "react";
 import "./footerbar.css";
-import logo from "../../assets/images/general/rclogo2.png";
+import logo from "../../assets/images/general/Logo.png";
 import { BsFacebook, BsInstagram, BsLinkedin, BsYoutube } from "react-icons/bs";
+import { color } from "framer-motion";
 
 const FooterBar = () => {
   return (
     <div className="footerbar-container">
       <div className="footerbar-col">
-        <img
+      {/* <div style={{ height: "100px", width: "100px" }}> */}
+          <img
           src={logo}
-          height={100}
-          width={100}
+          height={90}
+          width={90}
           alt="logo"
           className="footlogo"
         />
+        {/* </div> */}
         <h1>Robotics Club</h1>
       </div>
       <div className="footer-side-col">
