@@ -35,14 +35,7 @@ const WebQuest = () => {
           </div>
           <div class="eventpage-description-right">
             <p>
-              Join us for an exciting event on the world of web
-              development! Whether you're an experienced web developer or just
-              starting out, this event is the perfect opportunity to learn new
-              skills, meet like-minded individuals, and get inspired. No matter
-              what your level of experience or area of interest, you're sure to
-              find something of value at this event. So mark your calendar,
-              spread the word, and join us for an unforgettable day of learning
-              and discovery in the exciting world of web development.
+            For all aspiring developers and tech enthusiasts, Dev Quest is here! Join this where creativity, coding, and problem-solving collide. Team up, innovate, and race against the clock to build groundbreaking solutions. Whether you're a coding pro or a beginner, Dev Quest is the perfect opportunity to push your skills, learn, and compete for amazing rewards.
             </p>
           </div>
         </div>
@@ -63,7 +56,7 @@ const WebQuest = () => {
             <img src={roboGif2} alt="robogif" />
           </div>
           <div class="eventpage-description-right">
-            <p>12th - 14th May 2023</p>
+            <p>11th - 13th April 2025</p>
           </div>
         </div>
         <div className="event-contact-details">

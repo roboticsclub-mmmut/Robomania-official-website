@@ -5,7 +5,7 @@ import roboGif2 from "../../../assets/images/events/robotgif2.gif";
 import NavMenu from '../../../components/NavMenu/NavMenu';
 import FooterBar from '../../../components/FooterBar/FooterBar';
 
-const LaserStrike = () => {
+const Robowar = () => {
 
   const [eform,seteform]=useState(false);
 
@@ -16,11 +16,11 @@ const LaserStrike = () => {
 
   return (
     <>
-      <div className="eventpage-container lst">
+      <div className="eventpage-container rw">
         <NavMenu />
         <div className="eventpage-hero">
           <img src={roboGif} alt="robogif" />
-          <h1 style={{color: "white"}}>Laser Strike</h1>
+          <h1 style={{color: "white"}}>Robo War</h1>
         </div>
         <div class="register-btn upper-register">
         <a href="https://linktr.ee/Robomania23">REGISTER NOW</a>
@@ -35,7 +35,8 @@ const LaserStrike = () => {
           </div>
           <div class="eventpage-description-right">
             <p>
-            If you spend hours playing counter strike, <strong>Laser Strike</strong> is the one for you. A simulation of counter strike, it leaves you thrilled and amazed. Two teams will be fighting simultaneously with the help of a sensor kit and a laser kit and members of one team will have to kill the members of the enemy team.
+            {/* If you spend hours playing counter strike, <strong>Laser Strike</strong> is the one for you. A simulation of counter strike, it leaves you thrilled and amazed. Two teams will be fighting simultaneously with the help of a sensor kit and a laser kit and members of one team will have to kill the members of the enemy team. */}
+            If you love <strong> Battle Bots </strong> and their epic battles, this is the perfect place for you! Bring your own bot and see whose battle monster comes out on top. Watch as teams go head-to-head, showcasing their creations in a thrilling fight for victory. Only the most innovative and strategic robots will emerge as champions.
             </p>
           </div>
         </div>
@@ -59,7 +60,7 @@ const LaserStrike = () => {
           </div>
           <div class="eventpage-description-right">
             <p>
-              12th - 14th May 2023
+            11th - 13th April 2025
             </p>
           </div>
         </div>
@@ -82,4 +83,4 @@ const LaserStrike = () => {
   )
 }
 
-export default LaserStrike
+export default Robowar

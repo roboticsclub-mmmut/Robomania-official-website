@@ -16,7 +16,7 @@ const LaserStrike = () => {
 
   return (
     <>
-      <div className="eventpage-container lst">
+      <div className="eventpage-container rs">
         <NavMenu />
         <div className="eventpage-hero">
           <img src={roboGif} alt="robogif" />
@@ -35,7 +35,7 @@ const LaserStrike = () => {
           </div>
           <div class="eventpage-description-right">
             <p>
-            If you spend hours playing counter strike, <strong>Laser Strike</strong> is the one for you. A simulation of counter strike, it leaves you thrilled and amazed. Two teams will be fighting simultaneously with the help of a sensor kit and a laser kit and members of one team will have to kill the members of the enemy team.
+            Two bots will hit the field and go head-to-head in an intense soccer match—Rocket League style! Control your bot, race for the ball, and strategize your moves to score the winning goal. The thrill of the game builds with every pass, every shot, and every epic save.
             </p>
           </div>
         </div>
@@ -59,7 +59,7 @@ const LaserStrike = () => {
           </div>
           <div class="eventpage-description-right">
             <p>
-              12th - 14th May 2023
+            11th - 13th April 2025
             </p>
           </div>
         </div>

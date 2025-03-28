@@ -22,7 +22,7 @@ const ElectronicArt = () => {
         <NavMenu />
         <div className="eventpage-hero">
           <img src={roboGif} alt="robogif" />
-          <h1>Electronic Art</h1>
+          <h1 style={{color: "white"}}>Electronic Art</h1>
         </div>
         <div class="register-btn upper-register">
         <a href="https://linktr.ee/Robomania23">REGISTER NOW</a>
@@ -37,7 +37,7 @@ const ElectronicArt = () => {
           </div>
           <div class="eventpage-description-right">
             <p>
-            "The True Work Of Art Is But A Shadow Of Perfection" Its time to prove your creativity in the world of electronics.Enjoy the pleasure of sketching your imagination on paper by using variety of electronic components.Grasp the chance of being an artist of creativity As we know.Art is the most intense mode of individualism that the world has known.
+            "The True Work Of Art Is But A Shadow Of Perfection" Its time to prove your creativity in the world of electronics. Enjoy the pleasure of sketching your imagination on paper by using variety of electronic components.Grasp the chance of being an artist of creativity As we know.Art is the most intense mode of individualism that the world has known.
             </p>
           </div>
         </div>
@@ -61,7 +61,7 @@ const ElectronicArt = () => {
           </div>
           <div class="eventpage-description-right">
           <p>
-              12th - 14th May 2023
+          11th - 13th April 2025
             </p>
           </div>
         </div>

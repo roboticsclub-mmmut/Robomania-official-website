@@ -1,185 +1,247 @@
-import aastha from '../../../assets/images/teams/second/aastha.jpg'
-import kratin from '../../../assets/images/teams/second/kratin.jpg'
-import jyoti from '../../../assets/images/teams/second/jyoti.png'
-import sahil from '../../../assets/images/teams/second/sahil.jpg'
-import ansh from '../../../assets/images/teams/second/ansh.JPG'
-import ritika from '../../../assets/images/teams/second/ritika.jpg'
-import kavya from '../../../assets/images/teams/second/kavya.jpg'
-import ananya from '../../../assets/images/teams/second/ananya.jpg'
-import divyanshm from '../../../assets/images/teams/second/divyanshm.jpg'
-import nikhil from '../../../assets/images/teams/second/nikhil.jpg'
-import brijesh from '../../../assets/images/teams/second/brijesh.jpg'
-import vikas from '../../../assets/images/teams/second/vikas.jpg'
-import arav from '../../../assets/images/teams/second/arav.jpg'
-import aniket from '../../../assets/images/teams/second/aniket.png'
-import ujj from '../../../assets/images/teams/second/ujj.png'
-import mayuresh from '../../../assets/images/teams/second/mayureshh.JPG'
-import alfida from '../../../assets/images/teams/second/alfida.jpg'
-import neeraj from '../../../assets/images/teams/second/neeraj.jpg'
-import pawan from '../../../assets/images/teams/second/pawan.jpg'
-import divyansh from '../../../assets/images/teams/second/divyansh.jpg'
+import Akash from '../../../assets/images/teams/Second/Akash.png';
+import Ashutosh from '../../../assets/images/teams/Second/ASHUTOSH.jpg';
+import Ayush from '../../../assets/images/teams/Second/Ayush.jpeg';
+import AyushN from '../../../assets/images/teams/Second/AyushN.jpg';
+import AyushS from '../../../assets/images/teams/Second/AyushS.jpg';
+import Badal from '../../../assets/images/teams/Second/Badal.jpg';
+import Bishal from '../../../assets/images/teams/Second/Bishal.jpg';
+import Deepak from '../../../assets/images/teams/Second/Deepak.jpg';
+import Devesh from '../../../assets/images/teams/Second/Devesh.jpg';
+import Divas from '../../../assets/images/teams/Second/Divas.jpg';
+import Divyansh from '../../../assets/images/teams/Second/Divyansh.jpg';
+import Garima from '../../../assets/images/teams/Second/Garima.png';
+import Khushi from '../../../assets/images/teams/Second/Khushi.jpg';
+import Mansi from '../../../assets/images/teams/Second/Mansi.jpg';
+import Nishant from '../../../assets/images/teams/Second/Nishant.jpg';
+import Nitin from '../../../assets/images/teams/Second/Nitin.jpg';
+import Nityanand from '../../../assets/images/teams/Second/Nityanand.jpg';
+import Pranjal from '../../../assets/images/teams/Second/Pranjal.jpg';
+import Prashant from '../../../assets/images/teams/Second/Prashant.jpg';
+import Prateek from '../../../assets/images/teams/Second/Prateek.png';
+import Pravesh from '../../../assets/images/teams/Second/Pravesh.jpg';
+import Priya from '../../../assets/images/teams/Second/Priya.png';
+import Sudhanshu from '../../../assets/images/teams/Second/Sudhanshu.png';
+import Suryansh from '../../../assets/images/teams/Second/Suryansh.jpg';
+import Vedant from '../../../assets/images/teams/Second/Vedant.jpg';
+import Yashasvi from '../../../assets/images/teams/Second/Yashasvi.jpg';
+import Shivanya from '../../../assets/images/teams/Second/Shivanya.png';
 
 
 const secondyear = [
   {
-    name: "Aastha Gupta",
-    image: aastha,
-    position: "Executive Member",
-    insta: "https://www.instagram.com/pvtt.aastha_/",
-    fb: "https://www.facebook.com/profile.php?id=100060492375278",
-    lin: "https://www.linkedin.com/in/aastha-gupta23/",
-  },
-  {
-    name: "Jyoti Maurya",
-    image: jyoti,
-    position: "Executive Member",
-    insta: "https://www.instagram.com/jyoti_21ab?igsh=MTN2em04ZnlidDN0Zg==",
-    fb: "",
-    lin: "https://www.linkedin.com/in/jyoti-maurya-b9a5b8255",
-  },
-  {
-    name: "Kratin Kesari",
-    image: kratin,
-    position: "Executive Member",
-    insta: "https://www.instagram.com/kratin._.keshari?igsh=MTc5cWhudzc3dXdsMA==",
-    fb: "https://www.facebook.com/",
-    lin: "https://www.linkedin.com/in/kratin-keshari-2a21b2254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
-  
-  {
-    name: "Sahil Soni",
-    image: sahil,
-    position: "Executive Member",
-    insta: "https://www.instagram.com/soni_sahil_0?igsh=MXJwZmhkc3RhZ3A1ag==",
-    fb: "https://www.facebook.com/profile.php?id=100022662433391&mibextid=ZbWKwL",
-    lin: "https://www.linkedin.com/in/sahil-soni-23a391257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
-  {
-    name: "Ansh Rastogi",
-    image: ansh,
+    name: "Devesh Kumar Gaurav",
+    image: Devesh,
     position: "Executive Member",
     insta: "",
     fb: "",
-    lin: "https://www.linkedin.com/in/ansh-rastogi-4594b2270",
-  },
-
+    lin: "https://www.linkedin.com/in/dkgaurav"
+},
   {
-    name: "Ritika Yadav",
-    image: ritika,
-    insta: "https://www.instagram.com/ritika_yadav36?igsh=bmp2c2M5b2s3cnVs",
-    fb: "https://www.facebook.com/share/p/XEN3ktUMws8wsSoS/?mibextid=qi2Omg",
-    lin: "https://www.linkedin.com/in/ritika-yadav-933052258",
-  },
-  {
-    name: "Kavya Gupta",
-    image: kavya,
+    name: "Nityanand",
+    image: Nityanand,
     position: "Executive Member",
-    insta: "https://www.instagram.com/kaavyyaaaa?igsh=MTh5cGQ0Y282Y2RtZQ==",
+    insta: "https://www.instagram.com/real_nityanand",
     fb: "",
-    lin: "https://www.linkedin.com/in/kavya-gupta-9488ab231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
-  {
-    name: "Ananya Trivedi",
-    image: ananya,
+    lin: "https://www.linkedin.com/in/nityanand-pathak-b48ab7292"
+  },{
+    name: "Sudhanshu Nirala",
+    image: Sudhanshu,
     position: "Executive Member",
-    insta: "https://www.instagram.com/ananyatrivedi19?igsh=aXpqNHR1ZnM2NjV3",
-    fb: "https://www.facebook.com/share/kt45oCDbmHxqVTVN/?mibextid=qi2Omg",
-    lin: "https://www.linkedin.com/in/ananya-trivedi-045bb7256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-
-  },
-
-  {
-    name: "Divyansh Maurya",
-    image: divyanshm,
-    position: "Executive Member",
-    insta: "https://www.instagram.com/divyanshmaurya7355_?igsh=bHdvcDdtd2Y4b25i",
-    fb: "https://www.facebook.com/profile.php?id=100087964788459&mibextid=ZbWKwL",
-    lin: "https://www.linkedin.com/in/divyansh-maurya-falcon?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
-  {
-    name: "Nikhil Kumar",
-    image: nikhil,
-    position: "Executive Member",
-    insta: "https://www.instagram.com/its_nikhil_sah18?igsh=MXZuODN0YWhnaXJrZg==",
+    insta: "",
     fb: "",
-    lin: "https://www.linkedin.com/in/nikhil7967",
-  },
-
+    lin: "www.linkedin.com/in/sudhanshu-nirala-816520354"
+},
   {
-    name: "Brijesh Maurya",
-    image: brijesh,
+    name: "Prateek Singh",
+    image: Prateek,
     position: "Executive Member",
-    insta: "https://www.instagram.com/brijesh_6480?igsh=b3FlbmVrM3pjdXc0",
+    insta: "https://www.instagram.com/prateek_.1._",
     fb: "",
-    lin: "https://www.linkedin.com/in/brijesh-maurya-17864725b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
-  {
-    name: "Vikas Srivastava",
-    image: vikas,
-    position: "Exectutive Member",
-    insta: "https://instagram.com/jyo_brai?igshid=ZDdkNTZiNTM=",
-    lin: "https://www.linkedin.com/in/vikas-srivastava-a818ba26b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
-  {
-    name: "Arav Prajapati",
-    image: arav,
+    lin: "https://www.linkedin.com/in/prateek-singh-886b25292"
+  },{
+    name: "Suryansh Pal",
+    image: Suryansh,
     position: "Executive Member",
-    insta: "https://www.instagram.com/arav_prajapati16?igsh=MWJrZXRyNmxuNzZrbA==",
-    lin: "https://www.linkedin.com/in/arav-prajapati-917061250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
-
+    insta: "https://www.instagram.com/suryanshh._13",
+    fb: "",
+    lin: "https://www.linkedin.com/in/suryansh-pal-b00869288"
+  }, 
   {
-    name: "Aniket Kumar",
-    image: aniket,
+    name: "Shivanya Dixit",
+    image: Shivanya,
     position: "Executive Member",
-    insta: "https://www.instagram.com/itukkashi1114?igsh=MWN1d25xMG1pdzVhaQ==",
-    fb:"https://www.facebook.com/share/KFMuKQyi5SAtZKbq/?mibextid=qi2Omg",
-    lin:"https://www.linkedin.com/in/aniket-kumar-b42a0a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    insta: "https://www.instagram.com/pickle.popsicles",
+    fb: "",
+    lin: "https://www.linkedin.com/in/shivanya-dixit-743610354"
+  },{
+    name: "Yashasvi Sharma",
+    image: Yashasvi,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/yashasvi_bhardwaj16/?hl=en",
+    fb: "",
+    lin: "https://www.linkedin.com/in/yashasvi-sharma-688245294"
   },
   {
-    name: "Ujjawal Srivastava",
-    image: ujj,
-    position: "Exectutive Member",
-    fb: "https://www.facebook.com/ujjawal.srivastava.969?mibextid=ZbWKwL",
-    insta: "https://www.instagram.com/uj.ujjawal?igsh=MjRqaXhibnNoNHVp",
-    lin: "https://www.linkedin.com/in/ujjawal-srivastava-458556256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
-  {
-    name: "Mayuresh Pandey",
-    image: mayuresh,
-    position: "Exectutive Member",
-    insta: "https://www.instagram.com/mayuresh_0809?igsh=MXRjYTJ0Nm5venkxZg==",
-  },
-  {
-    name: "Alfida Rashid",
-    image: alfida,
-    position: "Exectutive Member",
-    fb: "https://www.facebook.com/share/sspmiWiwRHgyrkWj/?mibextid=qi2Omg",
-    insta:"https://www.instagram.com/alfida_rashid?igsh=cXppN2kwbWI3ZHNr",
-    lin: "https://www.linkedin.com/in/alfida-rashid-28872225a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
+    name: "Garima Yadav",
+    image: Garima,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/garima_yd_01",
+    fb: "",
+    lin: "https://www.linkedin.com/in/garima-yadav-52117a24b"
+},
 
-  {
-    name: "Neeraj Kumar Poddar",
-    image: neeraj,
-    position: "Exectutive Member",
-    fb:"https://www.facebook.com/neeraj.nj.927",
-    insta: "https://www.instagram.com/neeraj_kr_nj?igsh=MW1lYmVwbmlycWZmdQ==",
-    lin: "https://www.linkedin.com/in/neeraj-kumar-nj-005322259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+   {
+    name: "Ashutosh Sharma",
+    image: Ashutosh,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/ashutosh171.1",
+    fb: "",
+    lin: "https://www.linkedin.com/in/ashutosh-sharma-664932281"
+  },  {
+    name: "Badal Sharma",
+    image: Badal,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/badal_m06/",
+    fb: "",
+    lin: "https://www.linkedin.com/in/badalm06/"
   },
+  {
+    name: "Pravesh Tewary",
+    image: Pravesh,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/p_tewary02/",
+    fb: "",
+    lin: "https://www.linkedin.com/in/pravesh-tewary-2a0ba5294"
+  },
+  {
+    name: "Priya Singh",
+    image: Priya,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/prishi937",
+    fb: "",
+    lin: "https://www.linkedin.com/in/priya-s-1b2329259"
+  },
+  {
+    name: "Ayush Sachan",
+    image: AyushS,
+    position: "Executive Member",
+    insta: "",
+    fb: "",
+    lin: "https://www.linkedin.com/in/ayush-sachan-b22583292"
+  },
+  {
+    name: "Khushi Gupta",
+    image: Khushi,
+    position: "Executive Member",
+    insta: "",
+    fb: "",
+    lin: "https://www.linkedin.com/feed/"
+  },
+  {
+    name: "Prashant Pal",
+    image: Prashant,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/_prashant.__1",
+    fb: "",
+    lin: "https://www.linkedin.com/in/prashant-pal-443b392a1"
+  },
+  {
+    name: "Nishant Pandey",
+    image: Nishant,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/nishantt.pandey",
+    fb: "",
+    lin: "https://www.linkedin.com/in/nishant--pandey"
+  },
+  {
+    name: "Pranjal Shahi",
+    image: Pranjal,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/pranjal_shahi321",
+    fb: "",
+    lin: "https://www.linkedin.com/in/pranjal-shahi-a92341325"
+  },
+  {
+    name: "Vedant Batham",
+    image: Vedant,
+    position: "Executive Member",
+    insta: "",
+    fb: "",
+    lin: "https://www.linkedin.com/in/vedant-batham-b094b3294"
+  },
+  {
+    name: "Nitin Gupta",
+    image: Nitin,
+    position: "Executive Member",
+    insta: "",
+    fb: "",
+    lin: "https://www.linkedin.com/in/nitin-gupta-7ba868281"
+  },
+  {
+    name: "Divas Kushwaha",
+    image: Divas,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/divas_1915/",
+    fb: "",
+    lin: "https://www.linkedin.com/in/divas-kushwaha-2462a92a4"
+  },
+  {
+    name: "Deepak",
+    image: Deepak,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/_deepak_fy_",
+    fb: "https://www.facebook.com/share/15rd9oU9wf/",
+    lin: "https://www.linkedin.com/in/deepak-singh-580682299"
+  },
+  {
+    name: "Mansi Chaturvedi",
+    image: Mansi,
+    position: "Executive Member",
+    insta: "",
+    fb: "",
+    lin: "www.linkedin.com/in/mansi-chaturvedi-024237294"
+  },  
+  {
+    name: "Ayush Kushwah",
+    image: Ayush,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/ayuxh1208",
+    fb: "https://www.facebook.com/share/168aHoc1Bj/",
+    lin: "https://www.linkedin.com/in/ayush-kushwah-5a3416290"
+},
+  {
+    name: "Ayush Nag",
+    image: AyushN,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/ayush_nag624",
+    fb: "",
+    lin: "https://www.linkedin.com/in/ayush-nag-761b38281"
+  },
+  {
+    name: "Divyansh Mishra",
+    image: Divyansh,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/_vishalmishra___",
+    fb: "",
+    lin: "https://www.linkedin.com/in/divyansh-mishra-115b31289"
+  },
+  {
+    name: "Bishal Roy",
+    image: Bishal,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/bishal_rai_2",
+    fb: "",
+    lin: "https://www.linkedin.com/in/bishal-roy-5615a2269"
+  },
+  {
+    name: "Akash Singh",
+    image: Akash,
+    position: "Executive Member",
+    insta: "https://www.instagram.com/akash_singhyad3144",
+    fb: "",
+    lin: "https://www.linkedin.com/in/akash-singh-5614b0253"
+  }
 
-  {
-    name: "Pawan Gupta",
-    image: pawan,
-    position: "Exectutive Member",
-    lin: "https://www.linkedin.com/in/pawan-gupta-b5393a300",
-  },
-  {
-    name: "Divyansh Gupta",
-    image: divyansh,
-    position: "Exectutive Member",
-    insta: "https://www.instagram.com/_the_divyansh123_?igsh=dWFqbDd3YmRvMm16",
-    lin:"https://www.linkedin.com/in/divyansh-gupta-b9a435249",
-  },
 ];
+
 export default secondyear;

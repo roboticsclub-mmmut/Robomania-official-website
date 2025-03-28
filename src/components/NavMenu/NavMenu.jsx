@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./NavMenu.css";
-import logo from "../../assets/images/general/rclogo2.png";
+import logo from "../../assets/images/general/Logo.png";
 import { FiMenu } from "react-icons/fi";
 import { RxCross1 } from "react-icons/rx";
 
@@ -25,7 +25,9 @@ const NavMenu = () => {
     <div>
       <div className="navcard-container">
         <div className="navcard-left">
+          <a href="/">
           <img src={logo} width={60} height={60} alt="logo" />
+          </a>
           <h1>Robotics Club</h1>
         </div>
         <div className={`navcard-right  ${state? "" :  "active-mobmenu"}`}>

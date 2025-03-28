@@ -16,6 +16,9 @@ import WebQuest from './Pages/EventsPage/Events/WebQuest';
 import Robowar from './Pages/EventsPage/Events/Robowar';
 import Robosoccer from './Pages/EventsPage/Events/Robosoccer';
 import DroneSymposium from './Pages/EventsPage/Events/DroneSymposium';
+import ETekken from './Pages/EventsPage/Events/ETekken';
+import Maze from './Pages/EventsPage/Events/ElectronicMaze';
+import HH from './Pages/EventsPage/Events/hh';
 
 function App() {
   return (
@@ -26,9 +29,10 @@ function App() {
         <Route path="gallery" element={<GalleryPage />} />
         <Route path="team" element={<TeamsPage />} />
         <Route path="workshops" element={<WorkshopsPage />}/>
-        <Route path="claddingcode" element={<CladdingCode />}/>
+        <Route path="electrotekken" element={<ETekken />}/>
         <Route path="electronfs" element={<ElectroNfs />}/>
         <Route path="electronicart" element={<ElectronicArt />}/>
+        <Route path="ElectronicMaze" element={<Maze />}/>
         <Route path="electronicchess" element={<ElectronicChess />}/>
         <Route path="bombdiffusion" element={<BombDiffusion />}/>
         <Route path="laserstrike" element={<LaserStrike />}/>
@@ -36,7 +40,7 @@ function App() {
         <Route path="webquest" element={<WebQuest />}/>
         <Route path="robowar" element={<Robowar />}/>
         <Route path="robosoccer" element={<Robosoccer />}/>
-        <Route path="dronesymposium" element={<DroneSymposium />}/>
+        <Route path="HoverHawk" element={<HH />}/>
       </Routes>
     </BrowserRouter>
   );
