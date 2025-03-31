@@ -18,7 +18,8 @@ const GalleryPage = () => {
 
     <div class="app-gallery">
       <div class="gallery-container">
-        {rcImage}
+        {/* {rcImage} */}
+        kjkhh
       </div>
     </div>
     </div>
