@@ -22,6 +22,7 @@ import HH from './Pages/EventsPage/Events/hh';
 
 function App() {
   return (
+    <BrowserRouter>
       <Routes> 
         <Route path="/" element={<HomePage />} />
         <Route path="events" element={<EventsPage />} />
@@ -41,6 +42,7 @@ function App() {
         <Route path="robosoccer" element={<Robosoccer />}/>
         <Route path="HoverHawk" element={<HH />}/>
       </Routes>
+      </BrowserRouter>
   );
 }
 
