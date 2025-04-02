@@ -16,7 +16,7 @@ import Nishant from '../../../assets/images/teams/second/Nishant.jpg';
 import Nitin from '../../../assets/images/teams/second/Nitin.jpg';
 import Nityanand from '../../../assets/images/teams/second/Nityanand.jpg';
 import Pranjal from '../../../assets/images/teams/second/Pranjal.jpg';
-import Prashant from '../../../assets/images/teams/second/Prashant.jpg';
+// import Prashant from '../../../assets/images/teams/second/Prashant.jpg';
 import Prateek from '../../../assets/images/teams/second/Prateek.png';
 import Pravesh from '../../../assets/images/teams/second/Pravesh.jpg';
 import Priya from '../../../assets/images/teams/second/Priya.png';
@@ -137,14 +137,14 @@ const secondyear = [
     fb: "",
     lin: "https://www.linkedin.com/feed/"
   },
-  {
-    name: "Prashant Pal",
-    image: Prashant,
-    position: "Executive Member",
-    insta: "https://www.instagram.com/_prashant.__1",
-    fb: "",
-    lin: "https://www.linkedin.com/in/prashant-pal-443b392a1"
-  },
+  // {
+  //   name: "Prashant Pal",
+  //   image: Prashant,
+  //   position: "Executive Member",
+  //   insta: "https://www.instagram.com/_prashant.__1",
+  //   fb: "",
+  //   lin: "https://www.linkedin.com/in/prashant-pal-443b392a1"
+  // },
   {
     name: "Nishant Pandey",
     image: Nishant,
