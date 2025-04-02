@@ -60,7 +60,7 @@ const Contact = () => {
         </a>
         <a href="mailto:roboticsclub.mmmut@gmail.com" target="_blank">
           <HiOutlineMail /> 
- <span>roboticsclub.mmmut@gmail.com</span>
+ <span>roboticsclub@mmmut.ac.in</span>
         </a>
         <a href="https://goo.gl/maps/7nbySXkE2MyNMVYL6?coh=178571&entry=tt" target="_blank">
           <BiMap /> <span>Robotics Club MMMUT</span> 

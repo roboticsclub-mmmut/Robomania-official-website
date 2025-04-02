@@ -25,7 +25,8 @@ const ETekken = () => {
 
         </div>
         <div class="register-btn upper-register">
-        <a href="https://linktr.ee/Robomania23">REGISTER NOW</a>
+        <a href="https://linktr.ee/robotics_.club">REGISTER NOW</a>
+
         </div>
       </div>
       <div className="eventpage-section">

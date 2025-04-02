@@ -84,7 +84,7 @@
 .rb-events h2 {
   z-index: 2;
   font-family: "Asul", sans-serif;
-  font-size: 8rem;
+  font-size: 7rem;
   text-decoration: solid;
   text-transform: uppercase;
   font-weight: 800;
@@ -154,12 +154,6 @@
   right: 10%;
   top: 20%;
   border-width:0px solid;
-  /* border-image: 
-    linear-gradient(
-      to bottom, 
-      var(--glow-color), 
-      rgba(0, 0, 0, 0)
-    )1 100%; */
     border-radius: 2rem;
     transition: transform 0.5s, box-shadow 0.5s;
 }
@@ -173,7 +167,7 @@
 .ls-text {
   position: absolute;
   right: 10%;
-  top: 20%;
+  top: -5%;
 }
 
 .rs-img {
