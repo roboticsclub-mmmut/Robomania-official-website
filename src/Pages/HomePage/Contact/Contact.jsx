@@ -55,12 +55,12 @@ const Contact = () => {
         </div>
       </div>
       <div data-aos="fade-up" className="details-container">
-        <a href="tel:+918081165522">
-          <IoMdCall />  <span>+91 8240066996</span>
+        <a href="tel:+917380744149">
+          <IoMdCall />  <span>+91 7380744149</span>
         </a>
-        <a href="mailto:roboticsclub.mmmut@gmail.com" target="_blank">
+        <a href="mailto:roboticsclub@mmmut.ac.in" target="_blank">
           <HiOutlineMail /> 
- <span>roboticsclub.mmmut@gmail.com</span>
+ <span>roboticsclub@mmmut.ac.in</span>
         </a>
         <a href="https://goo.gl/maps/7nbySXkE2MyNMVYL6?coh=178571&entry=tt" target="_blank">
           <BiMap /> <span>Robotics Club MMMUT</span> 
