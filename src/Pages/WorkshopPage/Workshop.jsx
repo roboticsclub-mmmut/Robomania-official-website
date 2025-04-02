@@ -25,10 +25,7 @@ const WorkshopsPage = () => {
           <div className="workshop-rightcontent">
             <h3>HTML Classes</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Laudantium voluptate quas aperiam incidunt. Quam, veritatis totam
-              asperiores expedita consectetur molestias officiis vitae nostrum!
-              Dolore.
+             Our HTML classes cover the fundamentals of web development, including elements, attributes, forms, and semantic structure. Participants learn how to create structured web pages with proper formatting. Hands-on exercises help in understanding tags, hyperlinks, tables, and multimedia integration. This course lays the foundation for building interactive websites.
             </p>
           </div>
         </div>
@@ -45,10 +42,7 @@ const WorkshopsPage = () => {
           <div className="workshop-rightcontent">
             <h3>CSS Classes</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Laudantium voluptate quas aperiam incidunt. Quam, veritatis totam
-              asperiores expedita consectetur molestias officiis vitae nostrum!
-              Dolore.
+             Our CSS classes focus on styling web pages using properties like colors, fonts, layouts, and responsiveness. Participants learn CSS selectors, flexbox, grid, and animations to enhance the visual appeal of websites. Practical exercises ensure students master designing attractive, responsive, and user-friendly web pages for different screen sizes.
             </p>
           </div>
         </div>
@@ -65,10 +59,7 @@ const WorkshopsPage = () => {
           <div className="workshop-rightcontent">
             <h3>Javascript Classes</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Laudantium voluptate quas aperiam incidunt. Quam, veritatis totam
-              asperiores expedita consectetur molestias officiis vitae nostrum!
-              Dolore.
+              Our JavaScript classes introduce dynamic and interactive web elements. Participants learn variables, functions, loops, DOM manipulation, and event handling. Advanced topics like ES6 features, asynchronous programming, and APIs are also covered. Hands-on projects ensure students gain practical experience in making web pages interactive and engaging.
             </p>
           </div>
         </div>
@@ -85,10 +76,7 @@ const WorkshopsPage = () => {
           <div className="workshop-rightcontent">
             <h3>Backend-PHP Classes </h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Laudantium voluptate quas aperiam incidunt. Quam, veritatis totam
-              asperiores expedita consectetur molestias officiis vitae nostrum!
-              Dolore.
+              Our backend development and PHP classes cover server-side programming, database management, and dynamic web application development. Participants learn PHP syntax, form handling, MySQL connectivity, and user authentication. Additionally, topics like RESTful APIs, session management, and security practices ensure students gain hands-on experience in building robust, scalable web applications.
             </p>
           </div>
         </div>
@@ -101,11 +89,7 @@ const WorkshopsPage = () => {
           <div className="workshop-rightcontent">
             <h3>Bluetooth Car Project</h3>
             <p>
-              A Bluetooth car project involves building a remote-controlled car
-              that is controlled using a Bluetooth connection between the car
-              and a mobile device or computer. The project typically involves
-              selecting a hardware platform, assembling the car, programming the
-              microcontroller, and establishing a Bluetooth connection.
+             Our Bluetooth Car Project workshop teaches participants how to design and build a remote-controlled car using Bluetooth technology. Participants learn about circuit connections, motor drivers, Arduino programming, and smartphone app integration. This hands-on experience enhances their knowledge of IoT and embedded systems, fostering creativity and technical skills.
             </p>
           </div>
         </div>
@@ -116,10 +100,7 @@ const WorkshopsPage = () => {
           <div className="workshop-rightcontent">
             <h3>Monster Design</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Laudantium voluptate quas aperiam incidunt. Quam, veritatis totam
-              asperiores expedita consectetur molestias officiis vitae nostrum!
-              Doloree.
+              Our Monster Design workshop focuses on building unique, creative robotic structures with electronic circuits. Participants explore motor controls, sensor integration, and power management to design interactive robotic creatures. This session encourages innovation, problem-solving, and hands-on learning, making it perfect for those interested in electronics, robotics, and creative engineering.
             </p>
           </div>
         </div>
