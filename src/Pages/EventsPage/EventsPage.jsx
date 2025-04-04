@@ -138,8 +138,7 @@ const EventsPage = () => {
             initial={{ opacity: 0.7, scale: 0.7 }}
             whileHover={{ scale: 1.1 }}
           >
-            Laser <br></br>
-            <span>Strike</span>{" "}
+          Laser Strike
           </motion.h2>
           <a href="laserstrike">
           <img src={laserStrike} className="rcevent-img rs-img" alt=""   />
@@ -163,8 +162,7 @@ const EventsPage = () => {
             initial={{ opacity: 0.7, scale: 0.7 }}
             whileHover={{ scale: 1.1 }}
           >
-            Electro <br></br>
-            <span>Tekken</span>{" "}
+Electro Tekken
           </motion.h2>
           <a href="electrotekken">
           <img src={etekken} className="rcevent-img ls-img" alt="" />
@@ -188,8 +186,7 @@ const EventsPage = () => {
             initial={{ opacity: 0.7, scale: 0.7 }}
             whileHover={{ scale: 1.1 }}
           >
-            Electro <br></br>
-            <span>NFS</span>{" "}
+Electro NFS
           </motion.h2>
           <a href="electronfs">
           <img src={nfs} className="rcevent-img rs-img" alt="" />
@@ -213,8 +210,7 @@ const EventsPage = () => {
             initial={{ opacity: 0.7, scale: 0.7 }}
             whileHover={{ scale: 1.1 }}
           >
-            Bomb Diffusion <br></br>
-            <span></span>{" "}
+Bomb Diffusion
           </motion.h2>
           <a href="bombdiffusion">
             <img src={bmb} className="rcevent-img ls-img" alt="" />
@@ -263,8 +259,7 @@ const EventsPage = () => {
             initial={{ opacity: 0.7, scale: 0.7 }}
             whileHover={{ scale: 1.1 }}
           >
-            Chess <br></br>
-            <span>Reimagined</span>{" "}
+Electronic Chess
           </motion.h2>
           <a href="electronicchess">
           <img src={chess} className="rcevent-img ls-img" alt="" />
@@ -288,8 +283,7 @@ const EventsPage = () => {
             initial={{ opacity: 0.7, scale: 0.7 }}
             whileHover={{ scale: 1.1 }}
           >
-            Dev <br></br>
-            <span>Quest</span>{" "}
+Dev Quest
           </motion.h2>
           <a href="webquest">
             <img src={webq} className="rcevent-img rs-img" alt="" />
@@ -313,8 +307,7 @@ const EventsPage = () => {
             initial={{ opacity: 0.7, scale: 0.7 }}
             whileHover={{ scale: 1.1 }}
           >
-            Electronic <br></br>
-            <span>Maze</span>{" "}
+Electronic Maze
           </motion.h2>
           <a href="ElectronicMaze">
           <img src={maze} className="rcevent-img ls-img" alt="" />
@@ -338,8 +331,7 @@ const EventsPage = () => {
             initial={{ opacity: 0.7, scale: 0.7 }}
             whileHover={{ scale: 1.1 }}
           >
-            Electronic <br></br>
-            <span>Art</span>{" "}
+Electronic Art
           </motion.h2>
           <a href="electronicart">
           <img src={eart} className="rcevent-img rs-img" alt="" />

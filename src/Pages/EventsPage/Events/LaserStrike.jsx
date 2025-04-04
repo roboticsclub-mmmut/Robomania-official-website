@@ -23,7 +23,7 @@ const LaserStrike = () => {
           <h1 style={{color: "white"}}>Laser Strike</h1>
         </div>
         <div class="register-btn upper-register">
-        <a href="https://linktr.ee/Robomania23">REGISTER NOW</a>
+        <a href="https://linktr.ee/robotics_.club" target='_blank'>REGISTER NOW</a>
         </div>
       </div>
       <div className="eventpage-section">
