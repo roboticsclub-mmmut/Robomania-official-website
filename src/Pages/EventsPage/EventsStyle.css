@@ -84,7 +84,7 @@
 .rb-events h2 {
   z-index: 2;
   font-family: "Asul", sans-serif;
-  font-size: 8rem;
+  font-size: 7rem;
   text-decoration: solid;
   text-transform: uppercase;
   font-weight: 800;
@@ -173,7 +173,7 @@
 .ls-text {
   position: absolute;
   right: 10%;
-  top: 20%;
+  top: -5%;
 }
 
 .rs-img {
